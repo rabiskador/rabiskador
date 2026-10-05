@@ -65,7 +65,9 @@ const maicon = {
 
     industrial: [
       "SCADA (Elipse E3)",
-      "Arduino"
+      "Arduino",
+      "Tia Portal (SIEMENS)",
+      "CODESYS"
     ]
   },
 
