@@ -112,7 +112,7 @@ const maicon = {
 | 🗂️ CRM para ONG | Atendimentos, doações, Kanban e campanhas com variantes A/B |
 | 🎓 AI Mentor | Plataforma educacional de IA para automação industrial |
 | ❄️ PCM Smart | Manutenção de refrigeração industrial integrando SCADA e IA |
-| ⚡ Smart Refrigeration Energy Management | Sala de máquinas de refrigeração virtual, construída do CLP até o dashboard, para estudar monitoramento de energia| Em Processo ↻ |
+| ⚡ Smart Refrigeration Energy Management | Sala de máquinas de refrigeração virtual, construída do CLP até o dashboard, para estudar monitoramento de energia|
 
 ---
 
